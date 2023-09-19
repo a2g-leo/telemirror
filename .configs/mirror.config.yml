@@ -1,0 +1,4 @@
+# (Required) Mirror directions
+directions:
+  - from: [-1001803384402]
+    to: [-1001963807100]
